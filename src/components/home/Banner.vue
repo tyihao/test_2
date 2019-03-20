@@ -17,7 +17,7 @@
           offset-md5
         >
           <h1 class="display-3 font-weight-light">
-            The Art Of Travel
+            ExchangeGo
           </h1>
           <div class="subheading text-uppercase pl-2 mb-4">
             Finding Beauty, One flight at a time
